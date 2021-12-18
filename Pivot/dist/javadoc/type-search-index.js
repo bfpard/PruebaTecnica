@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pivot.FindPivot","l":"FindByPivot"},{"p":"pivot","l":"Pivot"}]
